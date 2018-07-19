@@ -1,4 +1,1 @@
 
-<Version: 0.03>
-/data/Map001.json https://gist.githubusercontent.com/felipereira97/5c841bb2389ae66d824aa352557c3e3c/raw/30757e1b8a86fa13a4fd10f5f41970c9f5eb0451/Map001.json
-<End of Version>
