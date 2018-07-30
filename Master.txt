@@ -1,5 +1,5 @@
 
-<Version: 1.01>
+<Version: 1.1>
 package.json https://raw.githubusercontent.com/felipereira97/Version1.01/master/package.json
 /data/Map002.json https://raw.githubusercontent.com/felipereira97/Version1.01/master/Map002.json
 /data/Map009.json https://raw.githubusercontent.com/felipereira97/Version1.01/master/Map009.json
